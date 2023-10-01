@@ -1,0 +1,18 @@
+Times:
+
+10 simulations: 0m0.000s
+100 simulations: 0m0.001s
+1000 simulations: 0m0.006s
+10000 simulations: 0m0.062s
+100000 simulations: 0m0.621s
+1000000 simulations: 0m6.132s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+TODO
+It seems like you're asking about the predictions made by the program regarding the chances of each team winning the tournament. As you increase the number of simulations (N), the predictions become more accurate and stable. Initially, with a small N, there might be more variability in the results, leading to less accurate predictions. As N increases, the predictions should converge to more accurate values. You can observe this by comparing the predictions for each value of N you tested.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: TODO
+The point at which you consider the predictions "good enough" depends on your specific requirements and trade-offs between accuracy and cost.
