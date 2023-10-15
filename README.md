@@ -33,35 +33,38 @@ CS50 is a challenging and engaging course that covers a wide range of computer s
 - Filter
 - Recover
   
-### Week 5: [Topic 5]
-- [Assignment 1](week5/assignment1.md): Description of the assignment.
-- [Assignment 2](week5/assignment2.md): Description of the assignment.
+### Week 5: Data Structures
+- Inheritance
+- Speller
+- 
+### Week 6: Python
+- Hello (Python)
+- Mario (Python)
+- Cash (Python)
+- Readability (Python)
+- DNA
 
-### Week 6: [Topic 6]
-- [Assignment 1](week6/assignment1.md): Description of the assignment.
-- [Assignment 2](week6/assignment2.md): Description of the assignment.
+### Week 7: SQL
+- Songs
+- Movies
+- Fiftyville
 
-### Week 7: [Topic 7]
-- [Assignment 1](week7/assignment1.md): Description of the assignment.
-- [Assignment 2](week7/assignment2.md): Description of the assignment.
+### Week 8: HTML, CSS, JavaScript
+- Trivia
+- Homepage
 
-### Week 8: [Topic 8]
-- [Assignment 1](week8/assignment1.md): Description of the assignment.
-- [Assignment 2](week8/assignment2.md): Description of the assignment.
-
-### Week 9: [Topic 9]
-- [Assignment 1](week9/assignment1.md): Description of the assignment.
-- [Assignment 2](week9/assignment2.md): Description of the assignment.
-
+### Week 9: Flask
+- Birthdays
+- Finance
+  
 ### Week 10: Final Project
-- [Final Project](week10/final-project.md): Description of the final project assignment.
-
+- Final Project (ToDo List)
+  
 ## Certificate
 
 Upon successful completion of all assignments and the final project, you will be awarded a Certificate of Achievement in [Subject/Topic]. Congratulations on your hard work and dedication!
 
-![Certificate](certificate.png)
+![Certificate](certifi![CS50x](https://github.com/Alienvec/CS50X/assets/140019647/316bc264-8c16-4dcb-b3a7-1bbe941ba868)
+cate.png)
 
-For any questions or clarifications, please feel free to [contact us](mailto:your.email@example.com).
 
-Happy learning!
