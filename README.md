@@ -62,9 +62,8 @@ CS50 is a challenging and engaging course that covers a wide range of computer s
   
 ## Certificate
 
-Upon successful completion of all assignments and the final project, you will be awarded a Certificate of Achievement in [Subject/Topic]. Congratulations on your hard work and dedication!
 
-![Certificate](certifi![CS50x](https://github.com/Alienvec/CS50X/assets/140019647/316bc264-8c16-4dcb-b3a7-1bbe941ba868)
-cate.png)
+![Certificate](https://github.com/Alienvec/CS50X/assets/140019647/316bc264-8c16-4dcb-b3a7-1bbe941ba868)
+
 
 
