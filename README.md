@@ -13,26 +13,26 @@ CS50 is a challenging and engaging course that covers a wide range of computer s
 ## Assignments
 
 ### Week 1: C
-- [Population]
-- [Hello (C)]
-- [Mario (C)]
-- [Cash (C)]
+- Population
+- Hello (C)
+- Mario (C)
+- Cash (C)
   
-### Week 2: [Topic 2]
-- [Scrabble]
-- [Readability (C)]
+### Week 2: Arrays
+- Scrabble
+- Readability (C)
 - Bulbs
 
-### Week 3: Arrays
-- [Scrabble]
-- [Readability (C)]
-- Assignment 2](week3/assignment2.md): Description of the assignment.
+### Week 3: Algorithms
+- Sort
+- Plurality
+- Runoff
 
-
-### Week 4: [Topic 4]
-- [Assignment 1](week4/assignment1.md): Description of the assignment.
-- [Assignment 2](week4/assignment2.md): Description of the assignment.
-
+### Week 4: Memory
+- Smiley
+- Filter
+- Recover
+  
 ### Week 5: [Topic 5]
 - [Assignment 1](week5/assignment1.md): Description of the assignment.
 - [Assignment 2](week5/assignment2.md): Description of the assignment.
